@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @akleihues
-- 👀 I’m interested in Data, behavioral economics and sports
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on everything interesting
-- 📫 How to reach me: anton@kleihues.com / +4915734285839
+Hi, my name is Anton! \
+I am passionate about behavioral economics, progress studies and politics.\
+Currently, I am gaining insights into data science and ML with LeWagon.\
+I’m looking to collaborate on everything interesting - hit me up!\
+\
+📫 How to reach me: anton@kleihues.com / +49 157 342 858 39
 
 <!---
 akleihues/akleihues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
